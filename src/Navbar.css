@@ -1,11 +1,13 @@
 .navbar-nav a:hover {
   color: #ff803e;
-  background-color: #4169e0;
+  background-color: #6c8ff9;
   border-radius: 10px;
   transition: ease-in-out;
 }
 
 .navbar-nav a {
-  font-size: 18px;
+  font-size: 24px;
   padding-right: 10px;
+  letter-spacing: 1px;
+  font-family: "League Spartan", sans-serif;
 }
