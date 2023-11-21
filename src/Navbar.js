@@ -22,7 +22,7 @@ function Navbar() {
               Home
             </a>
             <a class="nav-link" href="#">
-              The Team
+              The
             </a>
             <a class="nav-link" href="#">
               Our Mission
